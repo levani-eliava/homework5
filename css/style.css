@@ -1,0 +1,228 @@
+
+/* Logo style */
+
+.logo{
+    margin: 25px 534px 10px 95px;
+   
+}
+
+/* Navigation Style */
+
+header{
+	display: flex;
+	align-items: center;
+	margin-top: -10px;
+}
+header .navigation{
+	margin-top: 25px;
+	
+}
+
+header .parentli{
+	display: flex;
+	width: 500px;
+	justify-content: space-around;
+}
+
+header .parentli .nav-li .a-link{
+    color: #303134;
+    font-size: 15px;
+    
+}
+
+/* Section style */
+
+Section .bg-Image{
+	background: url(../Images/banner.png);
+	 height: 648px; 
+	position: relative;
+}
+
+Section .bg-Image .title{
+	color: #FFFFFF;
+	font-size: 78px;
+	position: absolute;
+	top: 213px;
+	left: 414px;
+}
+
+Section .bg-Image .title2{
+	color: #FFFFFF;
+	font-size: 18px;
+	position: absolute;
+	top: 337px;
+	left: 526px;
+}
+
+/* Section 2 style */
+
+.section2{
+	width: 1171;
+	height: 680px;
+	margin-top: 75px;
+	margin-left: 94px;
+	margin-right: 91px;
+}
+
+.section2 .flexbox{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+	
+	
+}
+
+/* box style */
+
+.section2 .flexbox .box1{
+	width: 241px;
+	height: 240px;
+	
+	
+}
+
+ .section2 .flexbox .box2{
+	width: 269px;
+	height: 327px;
+	margin-left: 59px;
+} 
+
+
+ .section2 .flexbox .box3{
+	width: 269px;
+	height: 327px;
+	
+	
+} 
+
+.section2 .flexbox .box4{
+	width: 269px;
+	height: 327px;
+	
+	
+} 
+
+.section2 .flexbox .box5{
+	width: 269px;
+	height: 327px;
+       margin-left: 317px; 
+	margin-top: 21px;
+} 
+
+.section2 .flexbox .box6{
+	width: 269px;
+	height: 327px;
+	margin-top: 21px;
+} 
+
+.section2 .flexbox .box7{
+	width: 269px;
+	height: 327px;
+	margin-top: 21px;
+} 
+
+/* flexbox box1 text style */
+
+.flexbox .box1 .title{
+	font-size: 16px;
+	color: #8D8D8D;
+}
+
+.flexbox .box1 .title2{
+	margin-top: 6px;
+	font-size: 26px;
+	color: #1A1A1B;
+	font-weight: bold;
+}
+
+.flexbox .box1 .text{
+	margin-top: 40px;
+	font-size: 16px;
+	color: #8D8D8D;
+	font-weight: normal;
+}
+
+/* flexbox box2 text style */
+
+.flexbox .box2 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box2 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
+
+/* flexbox box3 text style */
+
+.flexbox .box3 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box3 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
+
+/* flexbox box4 text style */
+
+.flexbox .box4 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box4 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
+
+/* flexbox box5 text style */
+
+.flexbox .box5 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box5 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
+
+/* flexbox box6 text style */
+
+.flexbox .box6 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box6 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
+
+/* flexbox box4 text style */
+
+.flexbox .box7 .title{
+	font-size: 18px;
+	color: #1A1A1B;
+	margin-top: 22px;
+}
+
+.flexbox .box7 .text{
+	font-size: 16px;
+	color: #8D8D8D;
+	margin-top: 9px;
+}
